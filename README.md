@@ -8,7 +8,8 @@
 A calendar component for angular 2.0+ that can display events on a month, week or day view. The successor of: https://github.com/Big-Silver/angular2-calendar.git
  This calendar example is written by [Big Silver].
 
- ## Technology
+## Technology
+
  It uses the the following technologies:
 <ul>
 <li>Angular2</li>
