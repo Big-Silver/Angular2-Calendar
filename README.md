@@ -1,4 +1,4 @@
-# angular2-calendar
+# Angular2-Calendar
 
 
 <img width="900" src="src/public/img/angualr2-calendar.png" border="0" />
