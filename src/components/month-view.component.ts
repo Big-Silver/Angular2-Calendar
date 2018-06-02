@@ -36,10 +36,6 @@ import * as _ from "lodash";
             </tbody>
         </table>
     `
-    // ,
-    // host: {
-    //     '[class.cal-today]': 'day.isToday'
-    // }
 })
 export class MonthView implements OnInit, OnDestroy {
     @Input() public overview$: Observable<MonthOverview>;
